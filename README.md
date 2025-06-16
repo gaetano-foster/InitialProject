@@ -44,3 +44,7 @@ GGG     GG   GGG     GG    FFF
  GGGG   GG    GGGG   GG    FFF      
    GGGGGG       GGGGGG    FFFFFF    
 ```
+
+## License
+
+This project is open-source and free to use under the MIT License.
