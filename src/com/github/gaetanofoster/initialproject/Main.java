@@ -3,8 +3,6 @@
  * Date: 6/16/2025
  * Project Title: InitialProject
  *
- * Normally, I'd put all of this in a README, but I don't like writing those anyway :).
- *
  * This program is part of the AP Computer Science A summer work. I was tasked with writing a program
  * that renders my initials in a creative way. I'm not particularly good with art, so I decided that
  * my best bet for creativity would be in the rendering logic itself, not the font.
